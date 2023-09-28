@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @vijaybhedodkar
 - 👀 I’m interested in ...programming and exploring new things
-- 🌱 I’m currently learning ...wqeb devlopment
+- 🌱 I’m currently learning ...web devlopment
 - 💞️ I’m looking to collaborate on ...internship
 - 📫 How to reach me ...you can reach me on bhedodkarvijay@gmsil.com
 
